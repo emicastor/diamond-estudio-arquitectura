@@ -1,4 +1,4 @@
-# Diamond - Estudio arquitectura
+# Diamond - Estudio de arquitectura
 ### Página de destino (landing page) de un estudio de arquitectura 📐👷🏻‍♀️ hecho con Bootstrap 5.
 #### [Ver sitio web](https://.netlify.app/)
 
