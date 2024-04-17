@@ -1,0 +1,59 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+@media (min-width: 1200px) {
+    .border-caracteristicas {
+        border-right: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
+    }
+}
+
+.mt-n4 {
+    margin-top: -3.5rem !important;
+}
+
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    margin-bottom: 3rem;
+}
+
+.img-perfil-1 {
+    width: 60px;
+    height: 60px;
+    background-image: url(/assets/img/testimonios/comentario-1.webp);
+    background-size: cover;
+    background-position: center bottom;
+    border-radius: 50%;
+}
+
+.img-perfil-2 {
+    width: 60px;
+    height: 60px;
+    background-image: url(/assets/img/testimonios/comentario-2.webp);
+    background-size: cover;
+    background-position: center bottom;
+    border-radius: 50%;
+}
+
+.img-perfil-3 {
+    width: 60px;
+    height: 60px;
+    background-image: url(/assets/img/testimonios/comentario-3.webp);
+    background-size: cover;
+    background-position: center bottom;
+    border-radius: 50%;
+}
+
+.img-perfil-4 {
+    width: 60px;
+    height: 60px;
+    background-image: url(/assets/img/testimonios/comentario-4.webp);
+    background-size: cover;
+    background-position: center bottom;
+    border-radius: 50%;
+}
